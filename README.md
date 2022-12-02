@@ -1,5 +1,11 @@
 # Apex Legends Season 15 Autoexec
 
+<p align="center">
+  <a href="https://www.donationalerts.com/r/pr3ttyleaf">
+  <img src="https://img.shields.io/badge/Sponsor-blue?logo=github-sponsors&style=for-the-badge&color=grey">
+</a> 
+</p>
+
 ## Apex Legends Autoexec based on performance improvement.
 
 - Please remove preset name argument in file name to make it work in-game.
@@ -13,7 +19,7 @@
     D:\Steam\steamapps\common\Apex Legends\cfg
     ```
 - Please make sure you have checked the "Read-only" box in the file properties before launching the game.  
-
+- Also try importing [videoconfig](https://github.com/Rockstar234/videoconfig) to prevent problems with your one
 ## Start-up commands
 
 - You may also use some additional commands to improve perfomance
